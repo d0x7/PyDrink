@@ -1,0 +1,35 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Netbeans
+nbproject/
+nbactions.xml
+
+# IntelliJ Idea
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Maven
+build.xml
+target/
+dependency-reduced-pom.xml
+pom.xml.versionsBackup
+
+# vim
+.*.sw[a-p]
+
+# Mac filesystem dust
+.DS_Store/
+
+# (potential) Build files
+build/
+bin/
+dist/
+test/
+manifest.mf
+*.log*
+out/
