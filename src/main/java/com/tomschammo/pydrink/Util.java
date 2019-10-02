@@ -1,3 +1,5 @@
+package com.tomschammo.pydrink;
+
 public class Util {
 
     private final static double widmarkFactorMale = 1.0181D - 0.01213D;
